@@ -3,7 +3,7 @@ const Sequelize = require('sequelize')
 const database = 'pizza_luvrs'
 const host = 'pizza-db.cwxoconr1nbe.us-west-2.rds.amazonaws.com'
 const username = 'postgres'
-const password = 'Hzj0727sp'
+const password = 'password'
 
 const pgClient = new Sequelize(
   database,
